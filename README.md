@@ -56,8 +56,11 @@ Enhanced Documentation: Comprehensive training materials were created, enhancing
 ### Run Experiments:
 
 Experiment 1: Predefined sequence communication.
+
 Experiment 2: Round-robin task distribution.
+
 Experiment 3: Nested task handling for complex workflows.
+
 Experiment 4: Sequential tasks with adaptive roles.
 
 ### Conclusion
