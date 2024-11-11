@@ -11,7 +11,7 @@ Virtual Team Agents: Created through AI frameworks to simulate project roles, fa
 ## Project Phases
 ### Phase 1: Waterfall Methodology for Core Pipeline Setup
 This phase establishes the DevSecOps pipeline foundation through sequential stages. Each virtual team agent performs dedicated tasks in a structured manner, completing their assigned project deliverables without iterative changes.
-jhjghvjv
+
 ### Roles:
 Customer Proxy: Communicates client requirements to the project team.
 Project Manager: Oversees initial planning and coordinates across roles.
